@@ -1,3 +1,5 @@
+I will try to add KataGo in this fork.
+
 ![Go Review Partner logo](http://yuntingdian.com/goreviewpartner/grp-documentation/img/goreviewpartner.png "Go Review Partner logo")
 
 # goreviewpartner
