@@ -2298,7 +2298,7 @@ def get_bot_profiles(bot="",withcommand=True):
 	if bot!="":
 		bots=[bot]
 	else:
-		bots=["Leela","GnuGo","Ray","AQ","LeelaZero","Pachi","PhoenixGo"]
+		bots=["Leela","GnuGo","Ray","AQ","LeelaZero","KataGo","Pachi","PhoenixGo"]
 	profiles=[]
 	for section in sections:
 		for bot in bots:
